@@ -21,15 +21,15 @@ My research focuses on computer vision and robotics, with an emphasis on object-
 
 * **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.**<br>
   Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.<br>
-  arXiv 2026. [arXiv](https://arxiv.org/abs/2605.09487)
+  arXiv 2026. [[arXiv](https://arxiv.org/abs/2605.09487)]
 
 * **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.**<br>
   <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.<br>
-  arXiv 2026. [arXiv](https://arxiv.org/abs/2602.11934)
+  arXiv 2026. [[arXiv](https://arxiv.org/abs/2602.11934)]
 
 * **STORM: Segment, Track, and Object Re-Localization from a Single Image.**<br>
   <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.<br>
-  ICML 2026. [arXiv](https://arxiv.org/abs/2511.09771)
+  ICML 2026. [[arXiv](https://arxiv.org/abs/2511.09771)]
 
 <small><sup>*</sup> Equal contribution.</small>
 
