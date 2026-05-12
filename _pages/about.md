@@ -1,25 +1,33 @@
 ---
 permalink: /
-title: "Yu Deng"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a researcher at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
+I am **Yu Deng**, a researcher at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
 
-My research interests include computer vision, robotics, interpretable learning, agentic AI, and learning systems that connect perception, reasoning, and action.
+My research focuses on computer vision and robotics, with an emphasis on object-centric 3D perception, geometrically consistent visuomotor control, and interpretable agentic systems.
 
-I completed my Master's degree at TU Darmstadt in 2026.
+## Research Interests
 
-Research
-======
+* **3D perception for physical AI:** object segmentation, tracking, re-localization, and scene understanding.
+* **Robot learning and visuomotor control:** visual representations for robust, geometry-aware manipulation.
+* **Interpretable and agentic AI:** executable knowledge, repairable policies, and verifier-guided learning systems.
 
-My work is centered on building reliable, interpretable, and embodied AI systems. I am especially interested in:
+## Selected Papers
 
-* **Computer Vision and 3D Perception:** visual representations for object segmentation, tracking, re-localization, and 3D scene understanding.
-* **Robotics and Visuomotor Control:** perception-driven policies for manipulation and embodied decision making.
-* **Interpretable and Agentic AI:** inspectable knowledge, executable policies, and learning systems that can be repaired, reused, and verified.
+* **STORM: Segment, Track, and Object Re-Localization from a Single Image.**<br>
+  ICML 2026. [arXiv](https://arxiv.org/abs/2511.09771)
 
-For a focused overview of my research directions, see the [Research page]({{ '/research/' | relative_url }}).
+* **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.**<br>
+  arXiv 2026. [arXiv](https://arxiv.org/abs/2602.11934)
+
+* **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.**<br>
+  arXiv 2026. [arXiv](https://arxiv.org/abs/2605.09487)
+
+## Education
+
+* M.Sc., TU Darmstadt, 2026.
