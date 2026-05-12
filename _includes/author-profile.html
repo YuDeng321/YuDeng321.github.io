@@ -28,9 +28,7 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer_links %}
-        {% for employer in author.employer_links %}
-          <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i><a href="{{ employer.url }}">{{ employer.label }}</a></li>
-        {% endfor %}
+        <li class="author__desktop author__affiliations"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i><span>{% for employer in author.employer_links %}<a href="{{ employer.url }}">{{ employer.label }}</a>{% endfor %}</span></li>
       {% elsif author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}

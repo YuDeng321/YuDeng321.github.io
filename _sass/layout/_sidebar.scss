@@ -199,6 +199,29 @@
   }
 }
 
+.sidebar .author__affiliations {
+  align-items: flex-start;
+
+  @media screen and (min-width: 1024px) {
+    display: flex;
+  }
+
+  .icon-pad-right {
+    flex: 0 0 auto;
+    margin-top: 0.2em;
+  }
+
+  span {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  a {
+    overflow-wrap: anywhere;
+  }
+}
+
 .author__pronouns {
   margin: 0;
 
