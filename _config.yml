@@ -23,7 +23,7 @@ repository               : "dengyufuqin/dengyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zaizai-avatar.jpg"
   name             : "Yu Deng"
   pronouns         : # example: "she/her"  
   bio              : "Computer vision, robotics, interpretable learning, and agentic AI."
