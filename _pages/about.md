@@ -22,7 +22,7 @@ My research focuses on computer vision and robotics, with an emphasis on object-
 ## Research
 
 * **Nautilus: From One Prompt to Plug-and-Play Robot Learning.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.11665)]<br>
-  Yufeng Jin, Jianfei Guo, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
+  Yufeng Jin<sup>*</sup>, Jianfei Guo<sup>*</sup>, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
 
 * **Cognifold: Always-On Proactive Memory via Cognitive Folding.** *arXiv pending.*<br>
   <strong><u>Yu Deng</u></strong> et al.
