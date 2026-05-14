@@ -13,7 +13,7 @@ I am **Yu Deng**, a Ph.D. candidate at the [Artificial Intelligence and Machine 
 
 I work on embodied and agentic AI, with a focus on systems that can perceive, remember, reason, and act in the physical world. My research connects object-centric 3D perception, geometry-aware robot learning, executable knowledge, and proactive agent memory.
 
-Recent projects study segmenting, tracking, and re-localizing objects from minimal visual input (STORM), distilling diffusion features for visuomotor control (Robot-DIFT), repairing executable knowledge bases for policy learning (Kintsugi), building plug-and-play infrastructure for robot learning (Nautilus), and organizing always-on cognitive memory for autonomous agents (Cognifold).
+I am particularly interested in building generalizable AI systems that can turn visual observations and accumulated experience into structured representations, reusable skills, and reliable actions. This includes learning from 2D and 3D visual signals, grounding policies in geometry and objects, and designing agents whose memory and knowledge can be inspected, repaired, and extended over time.
 
 ## Publications
 
