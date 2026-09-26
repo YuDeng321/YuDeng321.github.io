@@ -34,7 +34,7 @@ redirect_from:
       </div>
     </li>
     <li class="academic-paper" id="robot-dift">
-      <a class="academic-paper__image" href="https://arxiv.org/abs/2602.11934" aria-label="Read the Robot-DIFT paper"><img src="/images/publications/robot-dift.webp" alt="Robot arms performing four contact-sensitive manipulation tasks" width="745" height="500" loading="lazy" decoding="async"></a>
+      <a class="academic-paper__image" href="https://arxiv.org/abs/2602.11934" aria-label="Read the Robot-DIFT paper"><img src="/images/publications/robot-dift.png" alt="Robot-DIFT preserves contact geometry where semantic-invariant vision misses it" width="696" height="416" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <h4>Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation</h4>
         <p class="academic-paper__authors"><strong>Yu Deng*</strong>, Yufeng Jin*, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki</p>
