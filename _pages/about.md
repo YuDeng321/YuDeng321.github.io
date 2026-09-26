@@ -1,40 +1,46 @@
 ---
+layout: research-home
 permalink: /
 title: "Yu Deng"
-author_profile: true
+description: "Yu Deng works toward embodied robotic reasoning through explicit policy knowledge, robot learning, and grounded perception."
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## About
+<section class="academic-section academic-about" id="about" aria-labelledby="about-title">
+  <h1 id="about-title">About</h1>
+  <div class="academic-about__layout">
+    <div class="academic-about__text">
+      <p>I am <strong>Yu Deng</strong>, a Ph.D. candidate in the <a href="https://www.aiml.informatik.tu-darmstadt.de/">AI/ML Lab at TU Darmstadt</a>, supervised by <a href="https://www.aiml.informatik.tu-darmstadt.de/people/kkersting">Prof. Dr. Kristian Kersting</a>. I am also affiliated with <a href="https://hessian.ai/">hessian.AI</a> and the <a href="https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory">JUPITER AI Factory</a>.</p>
+      <p>My long-term goal is <strong>embodied robotic reasoning</strong>: robots that can build explicit models of their environment and behavior, test those models against experience, and use what they learn to act more reliably. Kintsugi and our work on explicit behavioral models explore inspectable policy knowledge, adaptive questions, and world-model probes. Nautilus supports reproducible robot-learning workflows, while STORM and Robot-DIFT provide object-level perception and visual features for grounding action in physical scenes.</p>
+      <p class="academic-links" id="contact"><a href="mailto:yu.deng@tu-darmstadt.de">Email</a><a href="https://scholar.google.com/citations?user=AiBmRA4AAAAJ">Google Scholar</a><a href="https://github.com/YuDeng321">GitHub</a></p>
+    </div>
+    <figure class="academic-about__portrait"><img src="/images/zaizai-avatar.jpg" alt="Zaizai, Yu Deng's cat" width="720" height="720"></figure>
+  </div>
+</section>
 
-I am **Yu Deng**, a Ph.D. candidate at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
+<section class="academic-section" id="publications" aria-labelledby="publications-title">
+  <h2 id="publications-title">Publications</h2>
+  <h3>2026</h3>
+  <ul class="academic-papers">
+    <li id="storm"><strong>Yu Deng*</strong>, Teng Cao*, Hikaru Shindo, Quentin Delfosse, Jiahong Xue, Kristian Kersting. <strong>STORM: Segment, Track, and Object Re-Localization from a Single Image.</strong> <em>ICML 2026.</em> <a href="https://arxiv.org/abs/2511.09771">[paper]</a> <a href="https://github.com/YuDeng321/STORM">[code]</a></li>
+    <li id="robot-dift"><strong>Yu Deng*</strong>, Yufeng Jin*, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki. <strong>Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation.</strong> <em>Accepted at CoRL 2026.</em> <a href="https://arxiv.org/abs/2602.11934">[paper]</a></li>
+    <li id="nautilus">Yufeng Jin*, Jianfei Guo*, Xiaogang Jia, <strong>Yu Deng</strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki. <strong>Nautilus: From One Prompt to Plug-and-Play Robot Learning.</strong> <em>Accepted at NeurIPS 2026 (Poster).</em> <a href="https://arxiv.org/abs/2605.11665">[paper]</a></li>
+  </ul>
+  <h3>Preprints</h3>
+  <ul class="academic-papers">
+    <li>Teng Cao*, <strong>Yu Deng*</strong>, Hikaru Shindo*, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blüml, Christopher Tauchmann, Kristian Kersting. <strong>Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.</strong> <em>arXiv 2026.</em> <a href="https://arxiv.org/abs/2605.09487">[paper]</a></li>
+    <li>Hikaru Shindo, <strong>Yu Deng</strong>, Teng Cao, Quentin Delfosse, Christopher Tauchmann, Jannis Blüml, Gopika Sudhakaran, Kristian Kersting. <strong>Learning Explicit Behavioral Models with Adaptive Questions and World-Model Probes.</strong> <em>arXiv 2026.</em> <a href="https://arxiv.org/abs/2606.07127">[paper]</a></li>
+    <li>Suli Wang*, Yiqun Duan*, <strong>Yu Deng*</strong>, Rundong Zhao, Dai Shi, Minghua Deng, Chen Chen, Yiqi Wang, Xinliang Zhou. <strong>CogniFold: Always-On Proactive Memory via Cognitive Folding.</strong> <em>arXiv 2026.</em> <a href="https://arxiv.org/abs/2605.13438">[paper]</a> <a href="https://github.com/OpenUploading/CogniFold">[code]</a></li>
+  </ul>
+  <p class="academic-note">* Equal contribution.</p>
+</section>
 
-I work on embodied and agentic AI, with a focus on systems that can perceive, remember, reason, and act in the physical world. My research connects object-centric 3D perception, geometry-aware robot learning, executable knowledge, and proactive agent memory.
-
-I am particularly interested in building generalizable AI systems that can turn visual observations and accumulated experience into structured representations, reusable skills, and reliable actions. This includes learning from 2D and 3D visual signals, grounding policies in geometry and objects, and designing agents whose memory and knowledge can be inspected, repaired, and extended over time.
-
-## Publications
-
-* **Nautilus: From One Prompt to Plug-and-Play Robot Learning.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.11665)]<br>
-  Yufeng Jin<sup>*</sup>, Jianfei Guo<sup>*</sup>, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
-
-* **Cognifold: Always-On Proactive Memory via Cognitive Folding.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.13438)]<br>
-  Suli Wang<sup>*</sup>, Yiqun Duan<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Rundong Zhao, Dai Shi, Xinliang Zhou.
-
-* **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.09487)]<br>
-  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.
-
-* **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2602.11934)]<br>
-  <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.
-
-* **STORM: Segment, Track, and Object Re-Localization from a Single Image.** *ICML 2026.* [[arXiv](https://arxiv.org/abs/2511.09771)]<br>
-  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.
-
-<small><sup>*</sup> Equal contribution.</small>
-
-## Education
-
-* **Ph.D.**, TU Darmstadt, Apr. 2026 -
-* **M.Sc.**, TU Darmstadt, Oct. 2023 - Feb. 2026
+<section class="academic-section" id="education" aria-labelledby="education-title">
+  <h2 id="education-title">Education</h2>
+  <ul class="academic-education">
+    <li><strong>Ph.D.</strong>, TU Darmstadt, since April 2026</li>
+    <li><strong>M.Sc.</strong>, TU Darmstadt, October 2023 – February 2026</li>
+  </ul>
+</section>

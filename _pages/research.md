@@ -5,26 +5,32 @@ permalink: /research/
 author_profile: true
 ---
 
-My work sits at the intersection of computer vision, robotics, interpretable learning, and agentic AI. I am interested in AI systems that can perceive objects and scenes, act robustly in physical environments, and expose policy knowledge in forms that can be inspected, repaired, and reused.
+My long-term goal is embodied robotic reasoning: robots that can build explicit models of their environment and behavior, test those models against experience, and use what they learn to act more reliably. I work on inspectable policy knowledge, behavioral models, robot-learning workflows, and the perception and control needed to ground reasoning in physical scenes.
 
 ## Research Directions
 
-**3D perception for physical AI.** I work on object segmentation, tracking, re-localization, 6D pose estimation, and 3D scene understanding for embodied systems.
+**Inspectable policy and world knowledge.** I study executable knowledge bases, repairable policies, adaptive questions, and world-model probes that make an agent's behavior testable.
 
-**Robot learning and visuomotor control.** I study visual representations for manipulation, especially geometry-aware features that support stable closed-loop control.
+**Robot-learning workflows.** I work on reusable tools that connect policies, benchmarks, and robots with explicit interfaces and validation.
 
-**Interpretable and agentic AI.** I am interested in executable knowledge bases, repairable policies, tool-using agents, and verifier-guided learning systems.
+**Perception and control for physical grounding.** I study object tracking and re-localization, and visual representations that preserve geometry for contact-rich manipulation.
 
 ## Research
 
 * **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.09487)]<br>
-  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.
+  Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blüml, Christopher Tauchmann, Kristian Kersting.
 
-* **Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2602.11934)]<br>
+* **Learning Explicit Behavioral Models with Adaptive Questions and World-Model Probes.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2606.07127)]<br>
+  Hikaru Shindo, <strong><u>Yu Deng</u></strong>, Teng Cao, Quentin Delfosse, Christopher Tauchmann, Jannis Blüml, Gopika Sudhakaran, Kristian Kersting.
+
+* **Nautilus: From One Prompt to Plug-and-Play Robot Learning.** *Accepted at NeurIPS 2026 (Poster).* [[arXiv](https://arxiv.org/abs/2605.11665)]<br>
+  Yufeng Jin<sup>*</sup>, Jianfei Guo<sup>*</sup>, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
+
+* **Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation.** *Accepted at CoRL 2026.* [[arXiv](https://arxiv.org/abs/2602.11934)]<br>
   <strong><u>Yu Deng</u></strong><sup>*</sup>, Yufeng Jin<sup>*</sup>, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki.
 
 * **STORM: Segment, Track, and Object Re-Localization from a Single Image.** *ICML 2026.* [[arXiv](https://arxiv.org/abs/2511.09771)]<br>
-  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Jiahong Xue, Quentin Delfosse, Kristian Kersting.
+  <strong><u>Yu Deng</u></strong><sup>*</sup>, Teng Cao<sup>*</sup>, Hikaru Shindo, Quentin Delfosse, Jiahong Xue, Kristian Kersting.
 
 <small><sup>*</sup> Equal contribution.</small>
 
