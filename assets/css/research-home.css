@@ -97,7 +97,8 @@ body { padding-bottom: 0; }
   font-size: 14px;
   line-height: 1.45;
 }
-.academic-paper__meta span { color: var(--academic-text); font-weight: 600; }
+.academic-paper__meta span { color: var(--academic-text); font-weight: 400; }
+.academic-paper__meta strong { font-weight: 700; }
 .academic-paper__meta a { white-space: nowrap; }
 .academic-paper .academic-paper__summary {
   margin: 0;
