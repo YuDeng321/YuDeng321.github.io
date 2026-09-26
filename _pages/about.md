@@ -29,7 +29,7 @@ redirect_from:
       <div class="academic-paper__content">
         <h4>STORM: Segment, Track, and Object Re-Localization from a Single Image</h4>
         <p class="academic-paper__authors"><strong>Yu Deng*</strong>, Teng Cao*, Hikaru Shindo, Quentin Delfosse, Jiahong Xue, Kristian Kersting</p>
-        <p class="academic-paper__meta"><span>ICML 2026</span><a href="https://arxiv.org/abs/2511.09771">Paper</a><a href="https://github.com/YuDeng321/STORM">Code</a></p>
+        <p class="academic-paper__meta"><span>International Conference on Machine Learning (<strong>ICML 2026</strong>)</span><a href="https://arxiv.org/abs/2511.09771">Paper</a><a href="https://github.com/YuDeng321/STORM">Code</a></p>
         <p class="academic-paper__summary">Tracks 6D object pose from a reference image, detects drift, and re-localizes after occlusion or viewpoint changes.</p>
       </div>
     </li>
@@ -38,7 +38,7 @@ redirect_from:
       <div class="academic-paper__content">
         <h4>Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation</h4>
         <p class="academic-paper__authors"><strong>Yu Deng*</strong>, Yufeng Jin*, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki</p>
-        <p class="academic-paper__meta"><span>CoRL 2026 (accepted)</span><a href="https://arxiv.org/abs/2602.11934">Paper</a></p>
+        <p class="academic-paper__meta"><span>Conference on Robot Learning (<strong>CoRL 2026</strong>, accepted)</span><a href="https://arxiv.org/abs/2602.11934">Paper</a></p>
         <p class="academic-paper__summary">Distills diffusion features into a fast visual backbone that preserves geometric correspondences needed for contact-rich control.</p>
       </div>
     </li>
@@ -47,7 +47,7 @@ redirect_from:
       <div class="academic-paper__content">
         <h4>Nautilus: From One Prompt to Plug-and-Play Robot Learning</h4>
         <p class="academic-paper__authors">Yufeng Jin*, Jianfei Guo*, Xiaogang Jia, <strong>Yu Deng</strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki</p>
-        <p class="academic-paper__meta"><span>NeurIPS 2026 · Poster</span><a href="https://arxiv.org/abs/2605.11665">Paper</a></p>
+        <p class="academic-paper__meta"><span>Conference on Neural Information Processing Systems (<strong>NeurIPS 2026</strong>, Poster)</span><a href="https://arxiv.org/abs/2605.11665">Paper</a></p>
         <p class="academic-paper__summary">Turns a single prompt into validated workflows for reproducing, evaluating, fine-tuning, and deploying robot learning methods.</p>
       </div>
     </li>
