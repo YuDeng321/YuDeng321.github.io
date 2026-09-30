@@ -54,6 +54,15 @@ redirect_from:
   </ul>
   <h3>Preprints</h3>
   <ul class="academic-papers">
+    <li class="academic-paper" id="alder">
+      <a class="academic-paper__image" href="https://arxiv.org/abs/2609.33728" aria-label="Read the ALDER paper"><img src="/images/publications/alder.png" alt="Two models fit the same observations; changing the mass reveals different predictions" width="660" height="220" loading="lazy" decoding="async"></a>
+      <div class="academic-paper__content">
+        <h4>ALDER: Discovering the Laws of a World by Acting in It</h4>
+        <p class="academic-paper__authors">Teng Cao*, <strong>Yu Deng*</strong>, Quentin Delfosse, Kristian Kersting</p>
+        <p class="academic-paper__meta"><span>arXiv 2026</span><a href="https://arxiv.org/abs/2609.33728">Paper</a></p>
+        <p class="academic-paper__summary">Discovers and revises explicit world-model equations through targeted experiments, then uses validated laws for goal-directed control.</p>
+      </div>
+    </li>
     <li class="academic-paper" id="kintsugi">
       <a class="academic-paper__image" href="https://arxiv.org/abs/2605.09487" aria-label="Read the Kintsugi paper"><img src="/images/publications/kintsugi.webp" alt="Kintsugi turns failure evidence into verified edits to an executable knowledge base" width="900" height="365" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
