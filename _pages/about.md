@@ -25,7 +25,7 @@ redirect_from:
   <h3>2026</h3>
   <ul class="academic-papers">
     <li class="academic-paper" id="storm">
-      <a class="academic-paper__image" href="https://arxiv.org/abs/2511.09771" aria-label="Read the STORM paper"><img src="/images/publications/storm.webp" alt="Object tracking example across a large camera viewpoint change" width="587" height="232" loading="lazy" decoding="async"></a>
+      <a class="academic-paper__image" href="/images/publications/storm-architecture.png" target="_blank" rel="noopener" aria-label="View the full-size STORM architecture"><img src="/images/publications/storm-architecture.png" alt="STORM connects reference-conditioned segmentation, 3D pose tracking, and tracking-loss verification" width="1493" height="976" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <h4>STORM: Segment, Track, and Object Re-Localization from a Single Image</h4>
         <p class="academic-paper__authors"><strong>Yu Deng*</strong>, Teng Cao*, Hikaru Shindo, Quentin Delfosse, Jiahong Xue, Kristian Kersting</p>
@@ -34,7 +34,7 @@ redirect_from:
       </div>
     </li>
     <li class="academic-paper" id="robot-dift">
-      <a class="academic-paper__image" href="https://arxiv.org/abs/2602.11934" aria-label="Read the Robot-DIFT paper"><img src="/images/publications/robot-dift.png" alt="Robot-DIFT preserves contact geometry where semantic-invariant vision misses it" width="696" height="416" loading="lazy" decoding="async"></a>
+      <a class="academic-paper__image" href="/images/publications/robot-dift-architecture.png" target="_blank" rel="noopener" aria-label="View the full-size Robot-DIFT architecture"><img src="/images/publications/robot-dift-architecture.png" alt="Robot-DIFT distills a diffusion teacher into a deterministic student and fuses its features with S2-FPN for robot control" width="3421" height="1408" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <h4>Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation</h4>
         <p class="academic-paper__authors"><strong>Yu Deng*</strong>, Yufeng Jin*, Xiaogang Jia, Jiahong Xue, Gerhard Neumann, Georgia Chalvatzaki</p>
@@ -55,7 +55,7 @@ redirect_from:
   <h3>Preprints</h3>
   <ul class="academic-papers">
     <li class="academic-paper" id="alder">
-      <a class="academic-paper__image" href="https://arxiv.org/abs/2609.33728" aria-label="Read the ALDER paper"><img src="/images/publications/alder.png" alt="Two models fit the same observations; changing the mass reveals different predictions" width="660" height="220" loading="lazy" decoding="async"></a>
+      <a class="academic-paper__image" href="/images/publications/alder-architecture.png" target="_blank" rel="noopener" aria-label="View the full-size ALDER architecture"><img src="/images/publications/alder-architecture.png" alt="ALDER revises equations, fits coefficients, verifies candidate laws, and selects experiments to collect new evidence" width="2042" height="808" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <h4>ALDER: Discovering the Laws of a World by Acting in It</h4>
         <p class="academic-paper__authors">Teng Cao*, <strong>Yu Deng*</strong>, Quentin Delfosse, Kristian Kersting</p>
